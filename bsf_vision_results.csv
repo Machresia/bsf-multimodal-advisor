@@ -1,0 +1,28 @@
+image_name,field_logged_stage,mold_or_fungal_contamination_in_rearing_tray,frass_and_organic_waste_substrate,black_soldier_fly_larvae_instar_stage,black_soldier_fly_prepupae_or_pupae,top_prediction,confidence_pct
+egg 1.jpeg,1_Egg,0.52,0.21,0.0,0.0,mold or fungal contamination in rearing tray,0.52
+egg 2.jpeg,1_Egg,4.21,1.81,0.01,0.0,mold or fungal contamination in rearing tray,4.21
+egg 3.jpeg,1_Egg,1.77,4.3,0.04,0.01,frass and organic waste substrate,4.3
+egg 4.jpeg,1_Egg,2.08,4.15,0.06,0.02,frass and organic waste substrate,4.15
+egg 5.jpeg,1_Egg,0.37,0.12,0.0,0.0,mold or fungal contamination in rearing tray,0.37
+egg 6.jpeg,1_Egg,0.25,0.05,0.0,0.0,mold or fungal contamination in rearing tray,0.25
+egg 7.jpeg,1_Egg,0.71,1.79,0.0,0.0,frass and organic waste substrate,1.79
+larvae 1.jpeg,2_Larva,0.06,10.76,0.42,0.04,frass and organic waste substrate,10.76
+larvae 2.jpeg,2_Larva,0.11,15.92,0.49,0.13,frass and organic waste substrate,15.92
+larvae 3.jpeg,2_Larva,0.02,0.38,0.05,0.02,frass and organic waste substrate,0.38
+larvae 4.jpeg,2_Larva,0.16,20.84,0.33,0.02,frass and organic waste substrate,20.84
+pre-pupa 1.jpeg,3_pre-pupa,0.16,6.34,77.96,22.76,black soldier fly larvae instar stage,77.96
+pre-pupa 2.jpeg,3_pre-pupa,1.72,1.0,61.29,11.8,black soldier fly larvae instar stage,61.29
+pre-pupa 3.jpeg,3_pre-pupa,0.11,29.94,62.79,8.02,black soldier fly larvae instar stage,62.79
+pre-pupa 4.jpeg,3_pre-pupa,0.08,22.05,0.04,0.01,frass and organic waste substrate,22.05
+pre-pupa 5.jpeg,3_pre-pupa,0.08,22.05,0.04,0.01,frass and organic waste substrate,22.05
+pre-pupa 6.jpeg,3_pre-pupa,4.52,6.15,17.21,2.41,black soldier fly larvae instar stage,17.21
+Bsf pupae 1.jpeg,4_Pupa,0.04,1.46,32.41,20.76,black soldier fly larvae instar stage,32.41
+Bsf pupae 2.jpeg,4_Pupa,0.02,0.46,2.09,0.94,black soldier fly larvae instar stage,2.09
+Bsf pupae 3.jpeg,4_Pupa,0.35,0.09,83.72,74.28,black soldier fly larvae instar stage,83.72
+bsf pupae 4.jpeg,4_Pupa,0.05,0.09,83.88,60.84,black soldier fly larvae instar stage,83.88
+bsf pupae 5.jpeg,4_Pupa,0.02,0.04,77.97,75.13,black soldier fly larvae instar stage,77.97
+bsf adult 2.jpeg,5_adult,2.84,0.01,42.64,13.11,black soldier fly larvae instar stage,42.64
+bsf adult 3.jpeg,5_adult,0.13,0.0,2.42,0.7,black soldier fly larvae instar stage,2.42
+bsf adult 4.jpeg,5_adult,0.43,0.01,16.32,5.39,black soldier fly larvae instar stage,16.32
+bsf adult 5.jpeg,5_adult,4.14,0.0,63.32,22.6,black soldier fly larvae instar stage,63.32
+bsf adult.jpeg,5_adult,1.24,6.63,1.77,0.82,frass and organic waste substrate,6.63

@@ -1,0 +1,221 @@
+=== FIELD RESEARCH BSF LIFE CYCLE DATA MANIFEST ===
+
+This file contains automated SigLIP computer vision determinations matching field image layers.
+Cross-reference these records with academic papers during natural language query loops.
+
+Image Record: egg 1.jpeg
+  - Field Logged Biological Stage: 1_Egg
+  - AI Vision Ultimate Prediction: mold or fungal contamination in rearing tray (Confidence: 0.52%)
+  - Instar Stage Score: 0.0%
+  - Prepupae/Pupae Score: 0.0%
+  - Substrate Biomass Score: 0.21%
+  - Contamination/Mold Score: 0.52%
+---------------------------------------------------------------------------
+Image Record: egg 2.jpeg
+  - Field Logged Biological Stage: 1_Egg
+  - AI Vision Ultimate Prediction: mold or fungal contamination in rearing tray (Confidence: 4.21%)
+  - Instar Stage Score: 0.01%
+  - Prepupae/Pupae Score: 0.0%
+  - Substrate Biomass Score: 1.81%
+  - Contamination/Mold Score: 4.21%
+---------------------------------------------------------------------------
+Image Record: egg 3.jpeg
+  - Field Logged Biological Stage: 1_Egg
+  - AI Vision Ultimate Prediction: frass and organic waste substrate (Confidence: 4.3%)
+  - Instar Stage Score: 0.04%
+  - Prepupae/Pupae Score: 0.01%
+  - Substrate Biomass Score: 4.3%
+  - Contamination/Mold Score: 1.77%
+---------------------------------------------------------------------------
+Image Record: egg 4.jpeg
+  - Field Logged Biological Stage: 1_Egg
+  - AI Vision Ultimate Prediction: frass and organic waste substrate (Confidence: 4.15%)
+  - Instar Stage Score: 0.06%
+  - Prepupae/Pupae Score: 0.02%
+  - Substrate Biomass Score: 4.15%
+  - Contamination/Mold Score: 2.08%
+---------------------------------------------------------------------------
+Image Record: egg 5.jpeg
+  - Field Logged Biological Stage: 1_Egg
+  - AI Vision Ultimate Prediction: mold or fungal contamination in rearing tray (Confidence: 0.37%)
+  - Instar Stage Score: 0.0%
+  - Prepupae/Pupae Score: 0.0%
+  - Substrate Biomass Score: 0.12%
+  - Contamination/Mold Score: 0.37%
+---------------------------------------------------------------------------
+Image Record: egg 6.jpeg
+  - Field Logged Biological Stage: 1_Egg
+  - AI Vision Ultimate Prediction: mold or fungal contamination in rearing tray (Confidence: 0.25%)
+  - Instar Stage Score: 0.0%
+  - Prepupae/Pupae Score: 0.0%
+  - Substrate Biomass Score: 0.05%
+  - Contamination/Mold Score: 0.25%
+---------------------------------------------------------------------------
+Image Record: egg 7.jpeg
+  - Field Logged Biological Stage: 1_Egg
+  - AI Vision Ultimate Prediction: frass and organic waste substrate (Confidence: 1.79%)
+  - Instar Stage Score: 0.0%
+  - Prepupae/Pupae Score: 0.0%
+  - Substrate Biomass Score: 1.79%
+  - Contamination/Mold Score: 0.71%
+---------------------------------------------------------------------------
+Image Record: larvae 1.jpeg
+  - Field Logged Biological Stage: 2_Larva
+  - AI Vision Ultimate Prediction: frass and organic waste substrate (Confidence: 10.76%)
+  - Instar Stage Score: 0.42%
+  - Prepupae/Pupae Score: 0.04%
+  - Substrate Biomass Score: 10.76%
+  - Contamination/Mold Score: 0.06%
+---------------------------------------------------------------------------
+Image Record: larvae 2.jpeg
+  - Field Logged Biological Stage: 2_Larva
+  - AI Vision Ultimate Prediction: frass and organic waste substrate (Confidence: 15.92%)
+  - Instar Stage Score: 0.49%
+  - Prepupae/Pupae Score: 0.13%
+  - Substrate Biomass Score: 15.92%
+  - Contamination/Mold Score: 0.11%
+---------------------------------------------------------------------------
+Image Record: larvae 3.jpeg
+  - Field Logged Biological Stage: 2_Larva
+  - AI Vision Ultimate Prediction: frass and organic waste substrate (Confidence: 0.38%)
+  - Instar Stage Score: 0.05%
+  - Prepupae/Pupae Score: 0.02%
+  - Substrate Biomass Score: 0.38%
+  - Contamination/Mold Score: 0.02%
+---------------------------------------------------------------------------
+Image Record: larvae 4.jpeg
+  - Field Logged Biological Stage: 2_Larva
+  - AI Vision Ultimate Prediction: frass and organic waste substrate (Confidence: 20.84%)
+  - Instar Stage Score: 0.33%
+  - Prepupae/Pupae Score: 0.02%
+  - Substrate Biomass Score: 20.84%
+  - Contamination/Mold Score: 0.16%
+---------------------------------------------------------------------------
+Image Record: pre-pupa 1.jpeg
+  - Field Logged Biological Stage: 3_pre-pupa
+  - AI Vision Ultimate Prediction: black soldier fly larvae instar stage (Confidence: 77.96%)
+  - Instar Stage Score: 77.96%
+  - Prepupae/Pupae Score: 22.76%
+  - Substrate Biomass Score: 6.34%
+  - Contamination/Mold Score: 0.16%
+---------------------------------------------------------------------------
+Image Record: pre-pupa 2.jpeg
+  - Field Logged Biological Stage: 3_pre-pupa
+  - AI Vision Ultimate Prediction: black soldier fly larvae instar stage (Confidence: 61.29%)
+  - Instar Stage Score: 61.29%
+  - Prepupae/Pupae Score: 11.8%
+  - Substrate Biomass Score: 1.0%
+  - Contamination/Mold Score: 1.72%
+---------------------------------------------------------------------------
+Image Record: pre-pupa 3.jpeg
+  - Field Logged Biological Stage: 3_pre-pupa
+  - AI Vision Ultimate Prediction: black soldier fly larvae instar stage (Confidence: 62.79%)
+  - Instar Stage Score: 62.79%
+  - Prepupae/Pupae Score: 8.02%
+  - Substrate Biomass Score: 29.94%
+  - Contamination/Mold Score: 0.11%
+---------------------------------------------------------------------------
+Image Record: pre-pupa 4.jpeg
+  - Field Logged Biological Stage: 3_pre-pupa
+  - AI Vision Ultimate Prediction: frass and organic waste substrate (Confidence: 22.05%)
+  - Instar Stage Score: 0.04%
+  - Prepupae/Pupae Score: 0.01%
+  - Substrate Biomass Score: 22.05%
+  - Contamination/Mold Score: 0.08%
+---------------------------------------------------------------------------
+Image Record: pre-pupa 5.jpeg
+  - Field Logged Biological Stage: 3_pre-pupa
+  - AI Vision Ultimate Prediction: frass and organic waste substrate (Confidence: 22.05%)
+  - Instar Stage Score: 0.04%
+  - Prepupae/Pupae Score: 0.01%
+  - Substrate Biomass Score: 22.05%
+  - Contamination/Mold Score: 0.08%
+---------------------------------------------------------------------------
+Image Record: pre-pupa 6.jpeg
+  - Field Logged Biological Stage: 3_pre-pupa
+  - AI Vision Ultimate Prediction: black soldier fly larvae instar stage (Confidence: 17.21%)
+  - Instar Stage Score: 17.21%
+  - Prepupae/Pupae Score: 2.41%
+  - Substrate Biomass Score: 6.15%
+  - Contamination/Mold Score: 4.52%
+---------------------------------------------------------------------------
+Image Record: Bsf pupae 1.jpeg
+  - Field Logged Biological Stage: 4_Pupa
+  - AI Vision Ultimate Prediction: black soldier fly larvae instar stage (Confidence: 32.41%)
+  - Instar Stage Score: 32.41%
+  - Prepupae/Pupae Score: 20.76%
+  - Substrate Biomass Score: 1.46%
+  - Contamination/Mold Score: 0.04%
+---------------------------------------------------------------------------
+Image Record: Bsf pupae 2.jpeg
+  - Field Logged Biological Stage: 4_Pupa
+  - AI Vision Ultimate Prediction: black soldier fly larvae instar stage (Confidence: 2.09%)
+  - Instar Stage Score: 2.09%
+  - Prepupae/Pupae Score: 0.94%
+  - Substrate Biomass Score: 0.46%
+  - Contamination/Mold Score: 0.02%
+---------------------------------------------------------------------------
+Image Record: Bsf pupae 3.jpeg
+  - Field Logged Biological Stage: 4_Pupa
+  - AI Vision Ultimate Prediction: black soldier fly larvae instar stage (Confidence: 83.72%)
+  - Instar Stage Score: 83.72%
+  - Prepupae/Pupae Score: 74.28%
+  - Substrate Biomass Score: 0.09%
+  - Contamination/Mold Score: 0.35%
+---------------------------------------------------------------------------
+Image Record: bsf pupae 4.jpeg
+  - Field Logged Biological Stage: 4_Pupa
+  - AI Vision Ultimate Prediction: black soldier fly larvae instar stage (Confidence: 83.88%)
+  - Instar Stage Score: 83.88%
+  - Prepupae/Pupae Score: 60.84%
+  - Substrate Biomass Score: 0.09%
+  - Contamination/Mold Score: 0.05%
+---------------------------------------------------------------------------
+Image Record: bsf pupae 5.jpeg
+  - Field Logged Biological Stage: 4_Pupa
+  - AI Vision Ultimate Prediction: black soldier fly larvae instar stage (Confidence: 77.97%)
+  - Instar Stage Score: 77.97%
+  - Prepupae/Pupae Score: 75.13%
+  - Substrate Biomass Score: 0.04%
+  - Contamination/Mold Score: 0.02%
+---------------------------------------------------------------------------
+Image Record: bsf adult 2.jpeg
+  - Field Logged Biological Stage: 5_adult
+  - AI Vision Ultimate Prediction: black soldier fly larvae instar stage (Confidence: 42.64%)
+  - Instar Stage Score: 42.64%
+  - Prepupae/Pupae Score: 13.11%
+  - Substrate Biomass Score: 0.01%
+  - Contamination/Mold Score: 2.84%
+---------------------------------------------------------------------------
+Image Record: bsf adult 3.jpeg
+  - Field Logged Biological Stage: 5_adult
+  - AI Vision Ultimate Prediction: black soldier fly larvae instar stage (Confidence: 2.42%)
+  - Instar Stage Score: 2.42%
+  - Prepupae/Pupae Score: 0.7%
+  - Substrate Biomass Score: 0.0%
+  - Contamination/Mold Score: 0.13%
+---------------------------------------------------------------------------
+Image Record: bsf adult 4.jpeg
+  - Field Logged Biological Stage: 5_adult
+  - AI Vision Ultimate Prediction: black soldier fly larvae instar stage (Confidence: 16.32%)
+  - Instar Stage Score: 16.32%
+  - Prepupae/Pupae Score: 5.39%
+  - Substrate Biomass Score: 0.01%
+  - Contamination/Mold Score: 0.43%
+---------------------------------------------------------------------------
+Image Record: bsf adult 5.jpeg
+  - Field Logged Biological Stage: 5_adult
+  - AI Vision Ultimate Prediction: black soldier fly larvae instar stage (Confidence: 63.32%)
+  - Instar Stage Score: 63.32%
+  - Prepupae/Pupae Score: 22.6%
+  - Substrate Biomass Score: 0.0%
+  - Contamination/Mold Score: 4.14%
+---------------------------------------------------------------------------
+Image Record: bsf adult.jpeg
+  - Field Logged Biological Stage: 5_adult
+  - AI Vision Ultimate Prediction: frass and organic waste substrate (Confidence: 6.63%)
+  - Instar Stage Score: 1.77%
+  - Prepupae/Pupae Score: 0.82%
+  - Substrate Biomass Score: 6.63%
+  - Contamination/Mold Score: 1.24%
+---------------------------------------------------------------------------

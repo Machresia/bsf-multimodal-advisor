@@ -1,0 +1,25 @@
+# Python & Cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Environments
+.venv/
+venv/
+env/
+
+# Secrets & Local Config
+.env
+*.log
+.DS_Store
+desktop.ini
+
+# Model weights and zip archives
+my_bsf_siglip_model/
+*.zip
+
+# Local vector store / docstore caches
+storage/
+
+# System files
+desktop.ini
