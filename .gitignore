@@ -1,12 +1,14 @@
 # Python & Cache
 __pycache__/
 *.py[cod]
+*$py.class
 *.so
 
 # Environments
 .venv/
 venv/
 env/
+ENV/
 
 # Secrets & Local Config
 .env
@@ -14,12 +16,27 @@ env/
 .DS_Store
 desktop.ini
 
-# Model weights and zip archives
+# Model weights, zip archives, and HuggingFace/Whisper caches
 my_bsf_siglip_model/
 *.zip
+*.tar.gz
+.cache/
+huggingface/
 
 # Local vector store / docstore caches
 storage/
 
-# System files
-desktop.ini
+# Temporary Audio & Media Files (Voice notes)
+*.wav
+*.mp3
+*.m4a
+*.ogg
+*.flac
+*.jpg
+*.jpeg
+*.png
+
+# IDE / Editor Files
+.vscode/
+.idea/
+*.swp
