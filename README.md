@@ -63,6 +63,8 @@ The **BSF Multimodal Advisor** is an edge-ready assistant that combines a **fine
               ┌────────────────────────────┐
               │  Local Ollama (gemma3:4b)  │  ──► Generates Actionable Advice
               └────────────────────────────┘
+
+```
 ---
 
 ## Installation & Setup
